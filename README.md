@@ -8,3 +8,4 @@ GraphQL temelde nesneleri kendi yapısına uygun olarak ona vermemizi istiyor. B
 ![GraphQL Akış Şeması](https://github.com/mustafadikyar/GraphQL-Sample/blob/master/images/graphql-schema.png)
 
 
+###1
