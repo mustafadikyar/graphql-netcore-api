@@ -2,12 +2,7 @@
 GraphQL Örnek Proje - .Net 5.0
 
 [GraphQL detaylı bilgi için tıklayınız.](https://graphql.org/learn/ "GraphQL döküman")
+[Birçok farklı platformda örnek kodlamalar için tıklayınız.](https://graphql.org/code/ "GraphQL farklı platformlar için örnek kodlar")
 
-GraphQL temelde nesneleri kendi yapısına uygun olarak ona vermemizi istiyor. Bunlar;
 
 ![GraphQL Akış Şeması](https://github.com/mustafadikyar/GraphQL-Sample/blob/master/images/graphql-schema.png)
-
-
-1- DTO
-
-![My image](https://gist.github.com/mustafadikyar/26a0cdbfc38035176bb77156651c6776)
