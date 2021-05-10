@@ -9,11 +9,17 @@ GraphQL Örnek Proje - .Net 5.0
 Projeyi incelerken;
 
 1- DTO
+
 2- GraphTypes (ObjectGraphType & InputObjectGraphType)
+
 3- Mutations
+
 4- Queries
+
 5- Schemas
+
 6- Web Api
+
 
 sıralamasıyla incelerseniz akışa hakim olacaksınız diye düşünüyorum.
 
