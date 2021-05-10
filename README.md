@@ -8,4 +8,5 @@ GraphQL temelde nesneleri kendi yapısına uygun olarak ona vermemizi istiyor. B
 ![GraphQL Akış Şeması](https://github.com/mustafadikyar/GraphQL-Sample/blob/master/images/graphql-schema.png)
 
 
-###1
+1- DTO
+<script src="https://gist.github.com/mustafadikyar/26a0cdbfc38035176bb77156651c6776.js"></script>
