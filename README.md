@@ -9,4 +9,4 @@ GraphQL temelde nesneleri kendi yapısına uygun olarak ona vermemizi istiyor. B
 
 
 1- DTO
-<script src="https://gist.github.com/mustafadikyar/26a0cdbfc38035176bb77156651c6776.js"></script>
+[gist]https://gist.github.com/mustafadikyar/26a0cdbfc38035176bb77156651c6776[/gist]
